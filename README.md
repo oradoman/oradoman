@@ -1,0 +1,2 @@
+- Hi, I’m @oradoman
+- I am a begginer looking to learn Swift
